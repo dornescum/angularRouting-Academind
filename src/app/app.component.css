@@ -1,0 +1,6 @@
+.active {
+  color: red !important;
+  background-color: darkgray;
+  font-weight: 900;
+  font-style: italic;
+}
